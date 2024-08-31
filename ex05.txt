@@ -1,0 +1,19 @@
+
+Primeiro interruptor ligado, segundo interruptor desligado, terceiro interruptor desligado.
+
+Primeira Ida:
+
+Vou até a primeira sala para verificar a lâmpada:
+
+>Se estiver acesa: 
+
+    -A lâmpada da primeira sala é acendida pelo 1º interruptor 
+        - então volto, ligo o segundo e vou até a segunda salas, 
+             se apagada o segundo interruptor acende a lampada da terceira sala e o terceiro interruptor acende a lampada da segunda sala se acessa, os 1º 2º e 3º interruptores acendem respectivamente as lampadas das 1ª, 2ª e 3ª sala.
+
+>Se apagada: desligue o primeiro interruptor e ligue o segundo interruptor e ligue o terceiro interruptor.
+Segunda Ida:
+
+Vá à segunda sala para verificar a lâmpada:
+Se acesa, é do segundo interruptor.
+Se apagada, é do terceiro interruptor.
